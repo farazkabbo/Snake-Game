@@ -1,16 +1,16 @@
 # Snake-Game
 This project implements a classic Snake game using Python and Pygame. The player controls the snake to eat food, causing it to grow in length, while avoiding collisions with itself.
 
-Features
+#Features
 Classic Snake Gameplay: Control the snake to eat food and grow longer. Avoid running into the walls or the snake's own body.
 Graphics: Implemented using the Pygame library, providing a visual representation of the snake, food, and game grid.
 Scoring: Displays the current score based on the number of food items eaten.
-Files
+#Files
 main.py: The main driver file responsible for handling user input, game logic, and displaying the game interface.
 Snake: Contains the logic for the snake's movement, direction, and growth.
 Food: Contains the logic for the food's position and randomization.
 Grid Drawing: Manages the drawing of the game grid.
-Usage
+#Usage
 Run the Game:
 Execute main.py to start the game.
 Playing:
@@ -23,23 +23,22 @@ The goal is to eat the food that appears on the grid, which causes the snake to 
 Avoid running into the walls or the snake's own body.
 The game will display the current score at the top left corner.
 Installation
-Clone the Repository:
+#Clone the Repository:
 bash
-Copy code
+
 git clone <repository-url>
 Navigate to the Project Directory:
 bash
-Copy code
+
 cd snake-game
 Install Dependencies:
 bash
-Copy code
+
 pip install -r requirements.txt
 Run the Game:
 bash
-Copy code
 python main.py
-Requirements
+#Requirements
 Python 3.x
 Pygame Library
 Credits
