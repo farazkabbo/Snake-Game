@@ -38,7 +38,7 @@ This project implements a classic Snake game using Python and Pygame. The player
 - Python 3.x
 - Pygame Library
 ## Credits
-This project was developed by Shoumik Ahmed.
+This project was developed by Mohammed Faraz Kabbo.
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
